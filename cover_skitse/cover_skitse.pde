@@ -38,6 +38,7 @@ void draw(){
   stroke(#dad9c8);
   strokeWeight(270);
   ellipse(320,292.5, 700,700);
+
 }
 
 
